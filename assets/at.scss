@@ -39,6 +39,10 @@ $heading2Size: 1.5em;
 $heading3Size: 1.3em;
 $heading4Size: 1.2em;
 
+strong {
+  font-family: $headingFont;
+}
+
 // Theme template ------------------------------
 @import "reveal.js/css/theme/template/theme";
 // ---------------------------------------------
